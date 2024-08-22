@@ -8,7 +8,7 @@
 
 .back{
     padding: 32px;
- background-color: rosybrown;
+background-color: limegreen;
 }
 #menu{
     display: none;
@@ -33,7 +33,7 @@
 }
 
 .menu .navbar ul li a:hover{
-    color: rgb(150, 108, 108);
+   color: chartreuse;
 }
 
 
@@ -42,7 +42,7 @@
     top: 100%;
     left: 0;
     right: 0;
-    background-color: rgb(214, 183, 183);
+background-color: forestgreen;
     display: none;
 }
 
@@ -52,8 +52,8 @@
     display: initial;
 }
 
-h1{
-    color: #ffffff;
-    margin-left: 15px;
+.sena{
+    width: 50px;
+    height: 60px;
+    margin-right: 10px;
 }
-
